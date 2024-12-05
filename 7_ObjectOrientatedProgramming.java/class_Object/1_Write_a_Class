@@ -1,0 +1,76 @@
+class circle{
+    public double radius;
+
+    public double area(){
+
+    }
+    public double perimeter(){
+        
+    }
+    public double perimeter(){
+        
+    }
+}
+
+
+class rectangle{
+    public int length;
+    public int breadth;
+
+    public int area(){
+
+    }
+    public int perimeter(){
+
+    }
+}
+
+
+class cylinder{
+    public int radius;
+    public int height;
+
+    public double surfacearea(){
+
+    }
+    public double perimeter(){
+
+    }
+    public double volume(){
+
+    }
+}
+
+
+class student{
+    public int roll;
+    public String name;
+    public String course;
+    public float m1,m2,m3;
+
+    public double total(){
+
+    }
+    public double Average(){
+
+    }
+}
+
+
+class tv{
+    public int volume;
+    public int channel;
+    
+    public int volume(){
+
+    }
+    public int changechannel(){
+
+    }
+    public int switchon(){
+
+    }
+    publi  int switchoff(){
+        
+    }
+}
